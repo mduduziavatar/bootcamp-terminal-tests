@@ -1,17 +1,26 @@
-ame": "bootcamp-terminal-tests",
-  "version": "1.0.0",
-  "description": "",
-  "main": "greet.js",
-  "directories": {
-    "test": "test"
-  },
-  "scripts": {
-    "test": "mocha"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "mocha": "^7.1.1"
-  }
+{
+    "name": "first_terminal_test",
+    "version": "1.0.0",
+    "description": "",
+    "main": "IsFromBellville.js",
+    "directories": {
+        "test": "test"
+    },
+    "scripts": {
+        "test": "mocha"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/mduduziavatar/bootcamp-terminal-tests.git"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/mduduziavatar/bootcamp-terminal-tests/issues"
+    },
+    "homepage": "https://github.com/mduduziavatar/bootcamp-terminal-tests#readme",
+    "devDependencies": {
+        "mocha": "^8.1.1"
+    }
 }
